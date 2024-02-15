@@ -11,6 +11,7 @@ fun main () {
 }
 /*
 Create two classes Mobile and RaspberriPi that implements this interface:
+Create two Mobile and two RaspberriPi objects
  */
 public interface Computer {
     val name: String;
